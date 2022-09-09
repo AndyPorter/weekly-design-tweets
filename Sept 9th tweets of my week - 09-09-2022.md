@@ -1,6 +1,6 @@
 # Five things i saw on twitter this week, that i found interesting
 
-[Agility - iteration - a better example than the skatebaord to car analogyhttps://twitter.com/allenholub/status/1567552015315927040)
+[Agility - iteration - a better example than the skatebaord to car analogy](https://twitter.com/allenholub/status/1567552015315927040)
 
 [Accessible loading indicators - work going on in Gov](https://twitter.com/andymantell/status/1567213434730676227)
 
